@@ -15,5 +15,5 @@ A minimal placeholder repository used to test workflows and repository tooling.
 No application code is included in this repository. This README provides a short description and placeholder content.
 
 ## License
-
+ yo
 MIT
